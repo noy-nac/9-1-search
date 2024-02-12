@@ -1,6 +1,4 @@
 
 # Intro to Search
 
-## 1. Linear Search
-
-Implement linear search. Take in 
+Implement linear search, binary search, and recursive binary search. Details are provided by pre- and post-conditions attached to the method signatures.
